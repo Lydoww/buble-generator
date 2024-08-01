@@ -11,7 +11,7 @@ To get started with **Buble Creator**, follow these steps:
    git clone https://github.com/your-username/buble-creator.git
 Navigate to the Project Directory:
 
-bash
+ ```bash
 Copier le code
 cd buble-creator
 Launch the Game:
