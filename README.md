@@ -18,16 +18,10 @@ Launch the Game:
 Open the project in a live server environment to start playing. You can use extensions like Live Server for Visual Studio Code to get things running smoothly.
 
 🎯 How to Play
+
 Click on the Bubbles: Each bubble you click will increase your score.
 Aim for High Scores: Try to click as many bubbles as you can to reach the highest score possible!
+
 📚 Learn More
 This project is a great way to practice and understand basic JavaScript concepts. Feel free to explore the code and make modifications as you like!
 
-🛠️ Contributing
-If you'd like to contribute to Buble Creator, please fork the repository and submit a pull request with your changes. All contributions are welcome!
-
-📜 License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-💬 Questions?
-If you have any questions or need help, feel free to open an issue in the repository or contact me directly.
