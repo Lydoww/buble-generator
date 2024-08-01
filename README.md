@@ -9,11 +9,7 @@ To get started with **Buble Creator**, follow these steps:
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/your-username/buble-creator.git
-Navigate to the Project Directory:
-
-Copier le code
-cd buble-creator
-
+   
 Launch the Game:
 Open the project in a live server environment to start playing. You can use extensions like Live Server for Visual Studio Code to get things running smoothly.
 
